@@ -32,6 +32,9 @@ En este laboratorio utilicé un script de Bash para evitar la configuración man
 2. Instalación de Nginx.
 3. Personalización del index HTML.
 
+## 🚀 Resultado Final Accesando al Servidor Web
+![Captura evidencia de acceso al WebServer por el navegador](./resultado-webserver.jpg)
+
 ## 💡 Lecciones Aprendidas
 * Por qué una subred no es pública hasta que su tabla de rutas apunta a un Internet Gateway.
 * La importancia del principio de menor privilegio en los Security Groups.
