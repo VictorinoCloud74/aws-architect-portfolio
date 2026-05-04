@@ -5,7 +5,7 @@ Diseñar una infraestructura de red personalizada que cumpla con el principio de
 
 ## 🏗️ Arquitectura
 *(Aquí insertarás la imagen exportada de draw.io de tu VPC, Subredes, IGW y EC2)*
-![Diagrama de Arquitectura](./arquitectura-semana1.drawio)
+![Diagrama de Arquitectura](./arquitectura-semana1.png)
 
 ## 🏗️ Componentes de la Arquitectura
 * **VPC (10.0.0.0/16):** Mi espacio privado en la nube de AWS.
