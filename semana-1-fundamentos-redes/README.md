@@ -4,7 +4,7 @@
 Diseñar una infraestructura de red personalizada que cumpla con el principio de aislamiento, separando recursos públicos de privados, y automatizando el despliegue de un servidor web.
 
 ## 🏗️ Arquitectura
-*(Aquí insertarás la imagen exportada de draw.io de tu VPC, Subredes, IGW y EC2)*
+
 ![Diagrama de Arquitectura](./arquitectura-semana1.png)
 
 ## 🏗️ Componentes de la Arquitectura
